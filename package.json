@@ -1,0 +1,15 @@
+{
+  "name": "projlist",
+  "version": "1.0.0",
+  "description": "Project listing. Make shortcuts accessible from anywhere, list projects, jump to them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "projects",
+    "shortcuts"
+  ],
+  "author": "d.a.nicholls",
+  "license": "ISC"
+}
